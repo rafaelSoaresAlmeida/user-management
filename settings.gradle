@@ -1,0 +1,9 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal() // Essencial para encontrar o org.jetbrains.kotlin.jvm
+        mavenCentral()
+        google()
+    }
+}
+
+rootProject.name = 'user-management'

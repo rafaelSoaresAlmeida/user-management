@@ -1,0 +1,1 @@
+INSERT INTO USERS ( LOGIN, FIRSTNAME, LASTNAME, DESCRIPTION) VALUES ('batata login', 'potato', 'cookie', 'TOMATO')
